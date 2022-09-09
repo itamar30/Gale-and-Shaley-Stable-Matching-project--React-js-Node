@@ -1,0 +1,17 @@
+.matching-results {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    font-size: 21px;
+    font-weight: bold;
+    border: 1px solid;
+    padding: 16px;
+    align-items: center;
+}
+
+.error {
+    text-align: center;
+    font-size: 21px;
+    font-weight: bold;
+    color: red;
+}
