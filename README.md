@@ -1,7 +1,14 @@
 # Gale-and-Shaley-Stable-Matching-project--React-js-Node
 Final Project Cs studies. Gale &amp; Shapley stable matching implementation a web 
 
-project explained here: 
+how to run the project:
+
+make sure you can run "npm" command in your terminal (cli)
+activate xampp - Apache server & Mysql server
+run npm install in the root folder
+go to api dir and run npm install
+
+project explained here:
 
 https://arzimoran.wixsite.com/babyboom1
 
