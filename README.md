@@ -1,5 +1,5 @@
 # Gale-and-Shaley-Stable-Matching-project--React-js-Node
-Final Project Cs studies. Gale &amp; Shapley stable matching implementation a web 
+Final Project Cs studies. Gale &amp; Shapley stable matching web implementation 
 
 how to run the project:
 
